@@ -1,3 +1,5 @@
+package org.example;
+
 public class configs {
 
     protected static String dbHost = "localhost";
